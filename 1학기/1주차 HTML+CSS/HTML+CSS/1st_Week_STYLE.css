@@ -1,0 +1,108 @@
+header {
+    text-align: center;
+    padding: 105px 0px 50px 0px;
+}
+
+.Login10 {
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.HaveAnAccount {
+    font-size: 23px;
+    font-weight: 20;
+    color: white;
+}
+
+nav {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.IDPW {
+    border: none;
+    border-radius: 20px;
+    width: 8cm;
+    height: 1cm;
+    background-color: gray;
+    opacity: 0.4;
+}
+
+.InputChar {
+    padding: 0px 0px 12px 0px;
+}
+
+::placeholder {
+    color: white;
+}
+
+.SignIn {
+    background-color: rgb(248, 216, 158);
+    border: none;
+    border-radius: 20px;
+    width: 8cm;
+    height: 1cm;
+}
+
+.UnderSignin {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 20px 0px;
+    gap: 40px;
+}
+
+.Checkbox {
+    width: 0.4cm;
+    height: 0.4cm;
+    border: none;
+    background-color: rgb(248, 216, 158);
+}
+
+.CheckboxSet {
+    display: flex;
+    padding: 0px 50px 10px 0px;
+    align-items: center;
+}
+
+.RememberMe {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(248, 216, 158);
+}
+
+.ForgotPassword {
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.Hyperrink {
+    padding-bottom: 20px;
+}
+
+.Signwith {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Twooption {
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+    padding-top: 10px;
+}
+
+.Loginoption {
+    border: none;
+    border-radius: 5px;
+    width: 4cm;
+    height: 0.8cm;
+}
